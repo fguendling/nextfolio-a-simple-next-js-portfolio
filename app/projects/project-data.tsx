@@ -10,14 +10,14 @@ export const projects: Project[] = [
     title: "DevOps Engineer, for a client in the telecommunication sector",
     year: 2024,
     description:
-      "Introducing and improving automated solutions based on DevOps best practices. The project is about an element management system (EMS), which runs on Linux servers in multiple regions in an on-premises setup.",
+      "The project is about a web-based application, which runs on Linux servers in multiple regions in an on-premises setup. I am responsible for the implementation of automated application and operating system patch deployments, for the development of unit tests and smoke tests (to verify system functionalities), and for the set-up of an internal security scanner, as a crucial security requirement.",
     url: "https://example.com/",
   },
   {
     title: "DevOps Engineer, for a client in the pharmaceutical industry",
     year: 2023,
     description:
-      "This project was about operating and evolving the existing Google Cloud environment of the client. The project required working with Google Cloud Platform (GCP) and multiple products within GCP (such as Cloud Functions, IAM, Google Workflows, Pub/Sub, Cloud Endpoints, Deployment Manager), Terraform, Linux (Bash), GitHub (including GitHub Actions), Gitlab, YAML, Python. The overall objective was to automate as much as possible and improve reliability of a so called project builder, which is used to generate new GCP projects for end users",
+      "This project was about operating and evolving the existing Google Cloud environment of the client. The project required working with Google Cloud Platform (GCP) and multiple products within GCP (such as Cloud Functions, IAM, Google Workflows, Pub/Sub, Cloud Endpoints, Deployment Manager), Terraform, Linux (Bash), GitHub (including GitHub Actions), Gitlab, and Python. The overall objective was to automate as much as possible and improve reliability of a so called project builder, which is used to generate new GCP projects for end users.",
     url: "https://example.com/",
   },
   {
