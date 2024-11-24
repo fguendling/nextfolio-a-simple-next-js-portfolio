@@ -30,7 +30,7 @@ export default function Page() {
           The main difference to my CV in the PDF format is that this site allows me to display the information per project, not by employer. 
         </p>
         <p>
-          I may even update the Blog one day :)
+          I may even update the Blog one day :) Stay tuned.
         </p>
 
       </div>
