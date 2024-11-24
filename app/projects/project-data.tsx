@@ -15,7 +15,7 @@ export const projects: Project[] = [
   },
   {
     title: "DevOps Engineer, for a client in the pharmaceutical industry",
-    year: 2022-2023,
+    year: 2023,
     description:
       "This project was about operating and evolving the existing Google Cloud environment of the client. The project required working with Google Cloud Platform (GCP) and multiple products within GCP (such as Cloud Functions, IAM, Google Workflows, Pub/Sub, Cloud Endpoints, Deployment Manager), Terraform, Linux (Bash), GitHub (including GitHub Actions), Gitlab, YAML, Python. The overall objective was to automate as much as possible and improve reliability of a so called project builder, which is used to generate new GCP projects for end users",
     url: "https://example.com/",
