@@ -7,24 +7,31 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: "Project One",
+    title: "DevOps Engineer, for a client in the telecommunication sector",
+    year: 2024,
+    description:
+      "Introducing and improving automated solutions based on DevOps best practices. The project is about an element management system (EMS), which runs on Linux servers in multiple regions in an on-premises setup.",
+    url: "https://example.com/",
+  },
+  {
+    title: "DevOps Engineer, at a tech startup",
     year: 2023,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
+      "I was responsable for the implementation of logging and monitoring in Kubernetes clusters (with Prometheus, Grafana, Thanos, Loki, FluentBit, Nginx). Additionally, I handled the setup of Hashicorp's Vault, as well as firewall configurations and DNS setups in CloudFlare. Furthermore, in this role I performed deployment of solutions to cloud providers (such as DigitalOcean and IONOS), via Terraform, Helm, and CI/CD. I have done general Gitlab repository maintenance, e.g., by introducing Renovate, terraform-docs, tagging practices, etc.",
     url: "https://example.com/",
   },
   {
-    title: "Project Two",
-    year: 2022,
+    title: "DevOps Engineer, for a client in the pharmaceutical industry",
+    year: 2022-2023,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
+      "This project was about operating and evolving the existing Google Cloud environment of the client. The project required working with Google Cloud Platform (GCP) and multiple products within GCP (such as Cloud Functions, IAM, Google Workflows, Pub/Sub, Cloud Endpoints, Deployment Manager), Terraform, Linux (Bash), GitHub (including GitHub Actions), Gitlab, YAML, Python. The overall objective was to automate as much as possible and improve reliability of a so called project builder, which is used to generate new GCP projects for end users",
     url: "https://example.com/",
   },
   {
-    title: "Project Three",
+    title: "DevOps Engineer, for a client in the energy industry",
     year: 2021,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
+      "The project started with an analysis of the client's requirements regarding their planned cloud migration and landing zone design on the Google Cloud Platform. We were responsible for the development of technical design documents that describe the cloud architecture. I implemented parts of the actual the cloud foundation on the Google Cloud Platform, by using Terraform and Jenkins. Content-wise, the focus was on VPCs, setup of an entire organization in GCP, setup of IAM, preparation of application migrations and deployments, as well as implementation of best practices on the Google Cloud Platform, such as logging and monitoring via built-in solutions.",
     url: "https://example.com/",
   },
 ];
