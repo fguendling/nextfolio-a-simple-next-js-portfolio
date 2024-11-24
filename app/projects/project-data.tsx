@@ -14,13 +14,6 @@ export const projects: Project[] = [
     url: "https://example.com/",
   },
   {
-    title: "DevOps Engineer, at a tech startup",
-    year: 2023,
-    description:
-      "I was responsable for the implementation of logging and monitoring in Kubernetes clusters (with Prometheus, Grafana, Thanos, Loki, FluentBit, Nginx). Additionally, I handled the setup of Hashicorp's Vault, as well as firewall configurations and DNS setups in CloudFlare. Furthermore, in this role I performed deployment of solutions to cloud providers (such as DigitalOcean and IONOS), via Terraform, Helm, and CI/CD. I have done general Gitlab repository maintenance, e.g., by introducing Renovate, terraform-docs, tagging practices, etc.",
-    url: "https://example.com/",
-  },
-  {
     title: "DevOps Engineer, for a client in the pharmaceutical industry",
     year: 2022-2023,
     description:
