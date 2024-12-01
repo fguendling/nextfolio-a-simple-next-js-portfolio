@@ -22,12 +22,11 @@ export default function Page() {
 
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          My name is Felix, I'm a DevOps Engineer, with prior experience as a Database Developer.
-          In the past, I have also created a few web-based applications.
+          My name is Felix, I'm a DevOps Engineer, with prior experience in Database Development.
         </p>
          <p>
           I am using this site to provide some additional information about my experience and the projects that I have worked on in the last 10 years. 
-          The main difference to my CV in the PDF format is that this site allows me to display the information per project, not by employer. 
+          The main difference to my CV (in PDF format) is that this site allows me to display the information per project, not by employer.
         </p>
         <p>
           I may even update the Blog one day :) Stay tuned.
