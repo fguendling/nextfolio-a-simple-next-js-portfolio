@@ -2,9 +2,7 @@
 
 import React from "react";
 import {
-  FaXTwitter,
   FaGithub,
-  FaInstagram,
   FaRss,
   FaLinkedinIn,
 } from "react-icons/fa6";
@@ -40,7 +38,7 @@ export default function Footer() {
       <time>© {YEAR}</time>{" "}
       <a
         className="no-underline"
-        href={socialLinks.twitter}
+        href={socialLinks.email}
         target="_blank"
         rel="noopener noreferrer"
       >
