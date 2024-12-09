@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: "My DevOps Projects",
 };
 
-export default function Projects() {
+export default function Devops() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-medium tracking-tight">DevOps Projects</h1>
