@@ -17,14 +17,14 @@ export const projects: Project[] = [
     title: "DevOps Engineer, for a client in the pharmaceutical industry",
     year: 2023,
     description:
-      "This project was about operating and evolving the existing Google Cloud environment of the client. The project required working with Google Cloud Platform (GCP) and multiple products within GCP (such as Cloud Functions, IAM, Google Workflows, Pub/Sub, Cloud Endpoints, Deployment Manager), Terraform, Linux (Bash), GitHub (including GitHub Actions), Gitlab, and Python. The overall objective was to automate as much as possible and improve reliability of a so called project builder, which is used to generate new GCP projects for end users.",
+      "This project was about operating and evolving the existing Google Cloud environment of the client. The project required working with Google Cloud Platform (GCP) and multiple products within GCP (such as Cloud Functions, IAM, Google Workflows, Pub/Sub, Cloud Endpoints, Deployment Manager), Terraform, Python, Linux (Bash), GitHub (including GitHub Actions), and Gitlab. The overall objective was to automate as much as possible and improve reliability of a so called project builder, which is used to generate new GCP projects for end users.",
     url: "https://example.com/",
   },
   {
     title: "DevOps Engineer, for a client in the energy industry",
     year: 2021,
     description:
-      "The project started with an analysis of the client's requirements regarding their planned cloud migration and landing zone design on the Google Cloud Platform. We were responsible for the development of technical design documents that describe the cloud architecture. I implemented parts of the actual the cloud foundation on the Google Cloud Platform, by using Terraform and Jenkins. Content-wise, the focus was on VPCs, setup of an entire organization in GCP, setup of IAM, preparation of application migrations and deployments, as well as implementation of best practices on the Google Cloud Platform, such as logging and monitoring via built-in solutions.",
+      "The project started with an analysis of the client's requirements regarding their planned cloud migration and landing zone design on the Google Cloud Platform. We were responsible for the development of technical design documents that describe the cloud architecture. I implemented parts of the actual cloud foundation on the Google Cloud Platform (GCP), by using Terraform and Jenkins. Content-wise, the focus was on VPCs, setup of an entire organization in GCP, setup of IAM, preparation of application migrations and deployments, as well as implementation of best practices on the Google Cloud Platform, such as logging and monitoring via built-in solutions.",
     url: "https://example.com/",
   },
 ];
