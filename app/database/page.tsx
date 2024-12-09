@@ -7,10 +7,10 @@ export const metadata: Metadata = {
   description: "My Database Projects",
 };
 
-export default function Photos() {
+export default function Database() {
   return (
     <section>
-      <h1 className="mb-8 text-2xl font-medium tracking-tight">Database Projects</h1>
+      <h1 className="mb-8 text-2xl font-medium tracking-tight">Database Projects (these images are placeholders, the actual content is coming soon)</h1>
       <ImageGrid
         columns={3}
         images={[
