@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { formatDate, getBlogPosts } from "app/lib/posts";
+import escape from "escape-html";
 
 export const metadata = {
   title: "Blog",
@@ -25,9 +26,9 @@ export default function BlogPosts() {
           })
           .map((post) => (
             <Link
-              key={post.slug}
+              key={escape(post.slug)}
               className="flex flex-col space-y-1 mb-4 transition-opacity duration-200 hover:opacity-80"
-              href={`/blog/${post.slug}`}
+              href={`/blog/${escape(post.slug)}`}
             >
               <div className="w-full flex flex-col sm:flex-row justify-between items-start sm:items-center space-y-1 sm:space-y-0 sm:space-x-2">
                 <p className="text-black dark:text-white tracking-tight">
